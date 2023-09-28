@@ -4,7 +4,7 @@
 </head>
 <body>
 <p>FCBarcelona is a football (soccer) team based on the Catalonian capital of Barcelona, Spain. It's home to not only the team but the fans who are known as Culers. It was founded in 1899 and has a lot of history in the footballing world, producing talents such as the GOAT of football, the one and only Lionel Messi. When someone brings up the idea of football, FC Barcelona is sure to be included in the topic as it is (in my opinion) the world's best team. <a href="https://www.fcbarcelona.com/en/">| FC Barcelona Website |</a></p>
-<img src="https://m.media-amazon.com/images/M/MV5BNjBiOTliNGUtODAxOC00ZDZmLTkzOTEtOTFhZjU4YmI4YTFjXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg" width="100" height="100">
+<img src="https://logowik.com/content/uploads/images/802_fcbarcelona.jpg" width="150" height="100">
 </body>
 <head2>
 <titile> <b>>Why I Love This Team?:</b> </titile>
