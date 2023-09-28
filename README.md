@@ -7,7 +7,7 @@
 <img src="https://m.media-amazon.com/images/M/MV5BNjBiOTliNGUtODAxOC00ZDZmLTkzOTEtOTFhZjU4YmI4YTFjXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg" width="100" height="100">
 </body>
 <head2>
-  <titile> <b>>Why I Love This Team?:</b> </titile>
+<titile> <b>>Why I Love This Team?:</b> </titile>
 </head2>
 <body2>
 <p>At a very young age, I fell in love with the sport of football. As everyone person finds their team to support, I found mine instantly. It was non other than FC Barcelona. Not only did I find a team that I would support my whole life, I found the person who inspired me the most. Lionel Messi is my biggest inspiration when it comes to playing football. FC Barcelona had the privilege of having a player that well in my opinion. Moving back to FC Barcelona, it is a team that I would defend with my soul and I would never stop supporting even if worse comes to worse.</p>
